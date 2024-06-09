@@ -1,0 +1,14 @@
+*,
+::before,
+::after {
+  padding-left: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+p {
+  display: inline-block;
+  text-align: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
